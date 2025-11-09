@@ -43,7 +43,7 @@ You will need **`[e.g., Node.js, Python, Java]`** installed on your machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/QuietCanvas.git](https://github.com/YourUsername/QuietCanvas.git)
+    git clone [https://github.com/CeyCodex/QuietCanvas.git](https://github.com/YourUsername/QuietCanvas.git)
     cd QuietCanvas
     ```
 2.  **Install dependencies:**
@@ -70,7 +70,7 @@ Please read our **`CONTRIBUTING.md`** for details on coding standards, submittin
 
 ### Quick Ways to Start:
 
-1.  **Tackle an Issue:** Check the [Issues tab](https://github.com/YourUsername/QuietCanvas/issues). Look specifically for tasks tagged with **`good first issue`**.
+1.  **Tackle an Issue:** Check the [Issues tab](https://github.com/CeyCodex/QuietCanvas/issues). Look specifically for tasks tagged with **`good first issue`**.
 2.  **Improve Docs:** Help us polish the `README.md` or the contribution guide.
 3.  **Feature Suggestion:** Start a conversation in the **Discussions** tab about a new feature you'd like to see built!
 
@@ -86,6 +86,6 @@ This project is licensed under the **MIT License** - see the **`LICENSE`** file 
 
 ## 📞 Contact
 
-[Your GitHub Handle] - **[@YourGitHubHandle]**
+CeyCodex - **[@CeyCodex]**
 
-Project Link: [https://github.com/YourUsername/QuietCanvas]
+Project Link: [https://github.com/CeyCodex/QuietCanvas]
